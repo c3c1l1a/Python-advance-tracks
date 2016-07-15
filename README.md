@@ -17,7 +17,35 @@ For the first section of the advance track, there are tones of resources in the 
 For the other sections, research (and may be posting question on forums like stackoverflow)will be the main way of getting information.
 
 ####Activities and exercises.
-The advance track will have a lot exercises and projects. The track will be based on the agile development methodology with TDD being at the heart of most if not all projects. The projects and exercises will worked on in teams with the teams actively utilizing github as the main tool of collaboration.  
+The advance track will have a lot exercises and projects. The track will be based on the agile development methodology with TDD at the heart of most, if not all projects. Team work will be encouraged where teams actively utilizing github as the main tool of collaboration.  
+
+
+###Section 1: Python language 
+####Google Developers pdf (study folder)
+#####Enviroment
+We will be using mostly [python 2 and not 3](https://www.quora.com/As-someone-interested-in-learning-Python-should-I-start-with-2-x-or-go-straight-to-3-x/answers/2220200?srid=hFhk&share=1)
+
+#####Python introduction
+Python is an interpreted language. What is an interpreted language?
+Using the python interpretor as a calculator.
+Basic data types
+Basic operators 
+
+
+Start using python scripts for the code
+
+
+
+
+
+
+Indentation
+Defined functions
+
+
+
+
+
 
 
 
