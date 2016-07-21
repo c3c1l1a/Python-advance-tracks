@@ -18,7 +18,7 @@ class AboutHowTheTrackWorks(Koan):
         developement methodology and TDD is at the heart of it. That said, the challenges and activities will be a set of test 
         suites that require you to write some code to make the tests pass.
 
-        Every challange/activity will have some instructions in RED just like this one, ellabolating what the challenge is 
+        Every challenge/activity will have some instructions in RED just like this one, elaborating what the challenge is 
         about and at times links to useful resources will be provided to help you find solutions.
         
         Let's do one simple example activity to demonstrate what the above means.
@@ -33,7 +33,7 @@ class AboutHowTheTrackWorks(Koan):
         """
         self.assertTrue(demo_activity1(), "demo_activity function did not return True")
 
-    def test_demo_acitivity2(self):
+    def test_demo_activity2(self):
         """
         
         Nice work. Hope that wasn't too hard. 
@@ -51,4 +51,5 @@ class AboutHowTheTrackWorks(Koan):
         """
         self.assertEqual(demo_activity2(), 2, "demo_activity2 function did not return 2")
 
+   
  
