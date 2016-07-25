@@ -13,10 +13,10 @@ class AboutPrimeFactors(Koan):
 		For example, the prime factors of 13195 are 5, 7, 13 and 29. The function should 
 		return 29 as the largest prime factor.
 		"""
-		self.assertEqual(argest_prime_factor(600851475143), 20719, "Given 600851475143, the largest prime factor is 20719")
-		self.assertEqual(argest_prime_factor(7477484), 683, "Given 7477484, the largest prime factor is 683")
-		self.assertEqual(argest_prime_factor(6477338), 462667, "Given 6477338, the largest prime factor is 462667")
-		self.assertEqual(argest_prime_factor(5253), 103, "Given 5253, the largest prime factor is 103")
-		self.assertEqual(argest_prime_factor(8927), 113, "Given 8927, the largest prime factor is 113")
+		self.assertEqual(largest_prime_factor(600851475143), 20719, "Given 600851475143, the largest prime factor is 20719")
+		self.assertEqual(largest_prime_factor(7477484), 683, "Given 7477484, the largest prime factor is 683")
+		self.assertEqual(largest_prime_factor(6477338), 462667, "Given 6477338, the largest prime factor is 462667")
+		self.assertEqual(largest_prime_factor(5253), 103, "Given 5253, the largest prime factor is 103")
+		self.assertEqual(largest_prime_factor(8927), 113, "Given 8927, the largest prime factor is 113")
 		
 		
