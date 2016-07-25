@@ -10,7 +10,7 @@ class AboutIntegerOperations(Koan):
 		========
 		Open koan_labs/integer_operations.py. Inside the integer_operations function, write code that takes an initial 
 		value which can be any random integer between 0 and 2 billion, prints out the next 5 numbers after the initial one, 
-		calculates the sum and returns it.
+		calculates the sum(including the initial number) and returns it.
 		"""
 		self.assertEqual(integer_operations(45), 285,"For an intial value of 45, the expected sum was 285")
 		self.assertEqual(integer_operations(56), 351,"For an intial value of 56, the expected sum was 351")
