@@ -5,7 +5,7 @@
 #
 # Python Koans Advance track is a port of Python Koans. There are some difference and tweeks added to
 # cater for more questions and edge cases, but a great deal of it has been copied wholesale.
-# So thank guys!
+# So thank guys and have a nice time learning
 #
 
 import sys
