@@ -28,6 +28,6 @@ class  AboutDictionaryPractice(Koan):
 		in the example above, return [drew:10,mark:-10,owen:-20,robert:10,susan:10]
 
 		"""
-		self.assertEqual(equity_tracker(["adam:eve:123"]),['adam:-123.0', 'eve:123.0'])
-		self.assertEqual(equity_tracker(["owen:susan:10", "owen:robert:10", "owen:drew:10"]),['drew:10.0', 'owen:-30.0', 'robert:10.0', 'susan:10.0'])
-		self.assertEqual(equity_tracker(["fred:ricky:50", "ricky:fred:20", "fred:ethel:100", "ethel:fred:150.35"]),['ethel:-50.35', 'fred:20.35', 'ricky:30.0'])
+		self.assertEqual(equity_tracker(["adam:eve:123"]),['adam:-123.0', 'eve:123.0'],"Try Again")
+		self.assertEqual(equity_tracker(["owen:susan:10", "owen:robert:10", "owen:drew:10"]),['drew:10.0', 'owen:-30.0', 'robert:10.0', 'susan:10.0'],"Try Again")
+		self.assertEqual(equity_tracker(["fred:ricky:50", "ricky:fred:20", "fred:ethel:100", "ethel:fred:150.35"]),['ethel:-50.35', 'fred:20.35', 'ricky:30.0'],"Try Again")
